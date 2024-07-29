@@ -1,16 +1,11 @@
-# noteapp
+<h1>Flutter Notes App</h1>
+<h5>A simple notes app built with Flutter.</h5>
+<hr>
+<h6>
+This project serves as a learning exercise for Flutter development, exploring core concepts and database integration.</h6>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<ul>Features</ul>
+<li>Create, read, update, and delete notes</li>
+<li>Basic user authentication (login page)</li>
+<li>Theming with Dart Theme Provider</li>
+<li>Clean code structure with separate pages for components</li>
